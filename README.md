@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Brenda-MW/EmbeddedAI-SmartAppliances)
+
 # Hands-On AI for Smart Appliances: From Sensor Data to Embedded Code
 Curious how AI powers smart appliances? Join our hands-on workshop to turn sensor data into deployable embedded code for IoT, automotive, robotics, and more. Build efficient AI at #MATLABEXPO!
 
