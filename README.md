@@ -10,16 +10,16 @@ Actively navigate the complete end-to-end AI deployment pipeline. Through guided
 This session emphasizes a hardware-aware approach, enabling engineers to rapidly develop, validate, and deploy robust AI solutions. Leave with the practical skills to effectively take AI solutions from initial sensor data through to deployable embedded code for smart appliances and similar applications using MATLAB® and Simulink® products. 
 
 ## MathWorks Toolboxes Used in this workshop
-* MATLAB®
-* Simulink®
-* Deep Learning Toolbox™
-* Statistics and Machine Learning Toolbox™
-* Signal Processing Toolbox™
-* Embedded Coder®
-* MATLAB Coder™
-* Simulink Coder™
-* Fixed-Point Designer™
-* Deep Learning Toolbox Model Compression Library
+- MATLAB®
+- Simulink®
+- Deep Learning Toolbox™
+- Statistics and Machine Learning Toolbox™
+- Signal Processing Toolbox™
+- Embedded Coder®
+- MATLAB Coder™
+- Simulink Coder™
+- Fixed-Point Designer™
+- Deep Learning Toolbox Model Compression Library
 
 ## Fill out the survey to tell us what you think
 Tell us about [your Embedded AI journey](https://www.surveymonkey.com/r/MATLABExpo25). 
