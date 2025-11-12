@@ -14,6 +14,7 @@ This session emphasizes a hardware-aware approach, enabling engineers to rapidly
 - Simulink®
 - Deep Learning Toolbox™
 - Statistics and Machine Learning Toolbox™
+- Predictive Maintenance Toolbox™
 - Signal Processing Toolbox™
 - Embedded Coder®
 - MATLAB Coder™
